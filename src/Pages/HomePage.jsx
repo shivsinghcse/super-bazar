@@ -8,6 +8,7 @@ const HomePage = () => {
           <a href="index.html" className="header-link">
             <img className="logo" src="images/logo-white.png" />
             <img className="mobile-logo" src="images/mobile-logo-white.png" />
+            {/* <h1>Super Bazar</h1> */}
           </a>
         </div>
 
