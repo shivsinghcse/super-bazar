@@ -3,6 +3,7 @@ import "./HomePage.css";
 const HomePage = () => {
   return (
     <>
+    <title>Super Bazar</title>
       <div className="header">
         <div className="left-section">
           <a href="index.html" className="header-link">
